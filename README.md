@@ -2,7 +2,7 @@
 
 ## :construction: Antes de começar
 <p>
-    Este repositório não tem o objetivo de solucionar nenhum problema específico, mas sim de agilizar a criação de protótipos de projetos com Node, Express e TypeScript.
+    Este repositório não tem o objetivo de solucionar nenhum problema específico, mas sim de agilizar a criação de protótipos com Node, Express e TypeScript.
 </p>
 <br>
 <blockquote>
